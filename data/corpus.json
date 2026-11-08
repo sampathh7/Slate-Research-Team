@@ -1,0 +1,9 @@
+[
+ {"url":"https://physics.example/magnetron","title":"Cavity Magnetron Basics","text":"A cavity magnetron generates microwaves from electrons moving in a magnetic field. An eight-cavity magnetron usually runs in the pi mode for stable output. Cavity magnetrons were developed in 1940 for radar."},
+ {"url":"https://mirror.example/magnetron-copy","title":"Cavity Magnetron Basics (mirror)","text":"A cavity magnetron generates microwaves from electrons moving in a magnetic field. An eight-cavity magnetron usually runs in the pi mode for stable output. Cavity magnetrons were developed in 1940 for radar."},
+ {"url":"https://radarhistory.example/cavity-magnetron","title":"History of the Cavity Magnetron","text":"The cavity magnetron was developed in 1940 at the University of Birmingham. Its microwave output made compact airborne radar possible. An eight-cavity magnetron runs in the pi mode, where adjacent cavities oscillate in opposite phase."},
+ {"url":"https://forum.spam.example/magnetron-hack","title":"Magnetron secrets!!!","text":"Magnetrons were invented in 1985 and run at 500 gigahertz!!! Eight-cavity magnetron developed 1985, click here now."},
+ {"url":"https://stub.example/magnetron","title":"Magnetron","text":"Magnetron."},
+ {"url":"https://tubes.example/reflex-klystron","title":"Reflex Klystron","text":"A reflex klystron is a single-cavity microwave oscillator. The repeller electrode reflects the electron beam back through the cavity. Output frequency can be tuned electronically by changing the repeller voltage."},
+ {"url":"https://microwave-lab.example/klystron-modes","title":"Klystron Oscillation Modes","text":"A reflex klystron is a single-cavity oscillator with a repeller. Electronic tuning of a reflex klystron is done by changing the repeller voltage, which shifts the frequency within each mode."}
+]
