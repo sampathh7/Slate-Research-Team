@@ -95,5 +95,5 @@ class Writer:
             out += ["", "## Gaps"]
             out += [f"- {f['subq']}: {f['error']}" for f in failures]
         out += ["", "## Sources"]
-        out += [f"[{i}] {docs[u].title} ({u})" for i, u in enumerate(order, 1)]
+        out += [f"- [{i}] {docs[u].title} ({u})" for i, u in enumerate(order, 1)]
         return "\n".join(out)
